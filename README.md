@@ -37,7 +37,7 @@ I'm committed to continuous learning and always eager to explore new technologie
 
 <a href="https://www.atlassian.com/software/jira">Zephyr</a> -   Test Case Management
 
-##🧩 Domains and Industries I Have Contributed To
+## 🧩 Domains and Industries I Have Contributed To
 
 * E-commerce
 * Healthcare
@@ -52,38 +52,111 @@ I'm committed to continuous learning and always eager to explore new technologie
 
 # Web Application Testing (Desktop + Mobile)
 
-**Credkeeper™**
+**1. Sherpa Auto Transport**
+
+ Website: sherpaautotransport.com
+ 
+**About the Project**
+Sherpa Auto Transport was founded in 2017 by seasoned entrepreneurs determined to improve the car shipping experience after several unreliable cross-country moves. Their mission is to bring transparency, reliability, and peace of mind to the auto transport industry.
+
+**QA Responsibilities**
+
+* End to End functional testing
+* Responsiveness and cross-browser compatibility
+* UI/UX testing
+* Bug Reporting on Shortcut
+* SEO Validation
+
+**2. Credkeeper™**
+
 Website: https://credkeeper.com
  
 **About the Project**
  Credkeeper™ is a patent-pending software platform designed to amplify a business’s online credibility by strategically managing how clients and prospects perceive the brand. It focuses on showcasing authority and trust, helping users convert more leads into paying clients.
- QA Responsibilities
-Functional Testing:
- Verified all user-facing functionalities, including sign-up flows, dashboard interactions, content update modules, and form submissions.
+ 
+**QA Responsibilities**
+*Functional Testing
+*Mobile Responsiveness Testing
+*UI/UX Consistency
+*Bug Reporting- Monday.com
+*Test Management-  Google Sheets
+*Bug Tracking- Monday.com
+*Browser Testing- Chrome DevTools, 
 
+**3. ILMZone – EdTech Platform**
 
-Mobile Responsiveness Testing:
- Tested the UI/UX across various screen sizes and devices using real devices and emulators.
+ Website: https://int.ilmzone.com/
+ 
+**About the Project:**
 
+ ILMZone is an innovative EdTech platform aimed at transforming the educational landscape in Pakistan by making digital learning accessible, affordable, and convenient. It connects learners with field experts through topic-based assistance and peer-reviewed courses, advancing academic digitalization across the region.
+ 
+**QA Responsibilities**
 
-UI/UX Consistency:
- Flagged inconsistencies in layout, typography, and responsiveness to match branding standards.
+* Led the QA effort.
+* Designed and executed automated end-to-end test cases - Cypress
+* Created and managed test cases - QAlity Plus, integrated with Jira
+* Manage Sprints - Jira
+* Bug Reporting - Jira
+* API Testing - Postman
+* Performance testing - Jmeter and blazemeter
+* Git
 
+**4. MitraMundo – E-commerce & Consulting Platform**
 
-Bug Reporting:
- Logged detailed bug reports using [monday.com] and re-tested fixes during iterative development cycles.
+Website: https://mitramundo.com/contact-us/
 
+**About the Project**
 
-Security & Data Integrity Checks:
- Performed basic security validations such as input sanitization, link spoofing prevention, and proper error handling.
-Tools & Tech Used
-Test Management:  Google Sheets
+MitraMundo is a leading e-commerce and consulting platform aimed at bridging the gap between businesses and high-quality services in the Latin American market. The platform focuses on offering professional services and products with a seamless user experience, specializing in consulting, networking, and business development.
 
+**QA Responsibilities**
 
-Bug Tracking: Monday.com
+* End-to-End functional testing.
+* Cross-browser and responsiveness testing
+* UI/UX testing
+* Bug Reporting - Jira
+* Stripe Payment Integration Testing
 
+  # Android App Testing
 
-Browser Testing: Chrome DevTools, 
+  **1. LitMe – Event Creation & Social Interaction App**
+
+Google Play URL : https://play.google.com/store/apps/details?id=com.litmeapp.litapp
+
+**About the Project**
+
+LitMe is an innovative mobile app that allows users to create and manage events, set attendance costs, and invite others to join. It features social interaction tools, including chat functionalities, enabling users to communicate, share details, and engage with others attending the events. The app focuses on simplifying event creation while fostering community interaction and easy event participation.
+
+**QA Responsibilities**
+
+* Led team of 6 QA Engineers
+* End-to-End functional testing
+* Cross-device testing to verify consistent functionality across 12 different actual Android devices for UAT - Manual Testing
+* UI/UX testing on 12 android devices.
+* Bug reporting and tracking - Jira
+* Performance testing - Apache JMeter
+* API testing - Postman
+
+  **2. Scalamed – Healthcare & Prescription Management App**
+
+Google Play URL : https://play.google.com/store/apps/details?id=com.scalamed.patientmobileapp&hl=en_IE
+
+**About the Project**
+
+Scalamed is a healthcare application designed to streamline prescription management. It allows patients to manage their prescriptions, send them directly to pharmacies, and track the status of their medications. The app enhances the prescription process by enabling users to easily communicate with their healthcare providers and pharmacies for timely medication fulfillment.
+
+**QA Responsibilities**
+
+*End-to-End functional testing
+*UI/UX testing
+*Bug reporting and tracking - Jira
+*Performance testing - Apache JMeter
+*Version Control- Jira
+*API testing  - Postman
+*API Documentation  - Postman
+*Regression testing 
+
 
 
 
