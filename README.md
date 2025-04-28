@@ -118,9 +118,9 @@ MitraMundo is a leading e-commerce and consulting platform aimed at bridging the
 * Bug Reporting - Jira
 * Stripe Payment Integration Testing
 
-  # Android App Testing
+# Android App Testing
 
-  **1. LitMe – Event Creation & Social Interaction App**
+**1. LitMe – Event Creation & Social Interaction App**
 
 Google Play URL : https://play.google.com/store/apps/details?id=com.litmeapp.litapp
 
@@ -138,7 +138,7 @@ LitMe is an innovative mobile app that allows users to create and manage events,
 * Performance testing - Apache JMeter
 * API testing - Postman
 
-  **2. Scalamed – Healthcare & Prescription Management App**
+**2. Scalamed – Healthcare & Prescription Management App**
 
 Google Play URL : https://play.google.com/store/apps/details?id=com.scalamed.patientmobileapp&hl=en_IE
 
@@ -156,6 +156,24 @@ Scalamed is a healthcare application designed to streamline prescription managem
 *API testing  - Postman
 *API Documentation  - Postman
 *Regression testing 
+
+# IOS App Testing
+
+**1. SameForYou – iOS Merchant & Client Apps**
+
+PlayStore URL: https://apps.apple.com/us/app/same-for-you/id1643425190
+
+**About the Project**
+
+SameForYou is an innovative iOS application designed to provide a seamless experience for both merchants and clients. The Merchant app allows businesses to list their meals and manage transactions, while the Client app enables customers to browse meals, place orders, and track deliveries. The app focuses on creating a simple and efficient platform for connecting meal providers and customers, improving the overall dining experience.
+
+**QA Responsibilities**
+
+* End-to-End functional testing
+* Cross-device testing across various iOS devices for UAT - Manual Testing
+* UI/UX testing
+* Bug reporting and tracking - Jira
+
 
 
 
