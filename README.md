@@ -75,13 +75,13 @@ Website: https://credkeeper.com
  Credkeeper™ is a patent-pending software platform designed to amplify a business’s online credibility by strategically managing how clients and prospects perceive the brand. It focuses on showcasing authority and trust, helping users convert more leads into paying clients.
  
 **QA Responsibilities**
-*Functional Testing
-*Mobile Responsiveness Testing
-*UI/UX Consistency
-*Bug Reporting- Monday.com
-*Test Management-  Google Sheets
-*Bug Tracking- Monday.com
-*Browser Testing- Chrome DevTools, 
+* Functional Testing
+* Mobile Responsiveness Testing
+* UI/UX Consistency
+* Bug Reporting- Monday.com
+* Test Management-  Google Sheets
+* Bug Tracking- Monday.com
+* Browser Testing- Chrome DevTools, 
 
 **3. ILMZone – EdTech Platform**
 
