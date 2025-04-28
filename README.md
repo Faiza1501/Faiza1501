@@ -148,14 +148,14 @@ Scalamed is a healthcare application designed to streamline prescription managem
 
 **QA Responsibilities**
 
-*End-to-End functional testing
-*UI/UX testing
-*Bug reporting and tracking - Jira
-*Performance testing - Apache JMeter
-*Version Control- Jira
-*API testing  - Postman
-*API Documentation  - Postman
-*Regression testing 
+* End-to-End functional testing
+* UI/UX testing
+* Bug reporting and tracking - Jira
+* Performance testing - Apache JMeter
+* Version Control- Jira
+* API testing  - Postman
+* API Documentation  - Postman
+* Regression testing 
 
 # IOS App Testing
 
