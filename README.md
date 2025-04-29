@@ -21,7 +21,6 @@ I'm committed to continuous learning and always eager to explore new technologie
 
 <a href="https://www.atlassian.com/software/jira">Confluence</a> -  Team Collaboration and Documentation
 
-
 <a href="https://www.atlassian.com/software/jira">Slack</a> -   Communication
 
 
@@ -52,11 +51,12 @@ I'm committed to continuous learning and always eager to explore new technologie
 
 # Web Application Testing (Desktop + Mobile)
 
-**1. Sherpa Auto Transport**
+## 1. Sherpa Auto Transport
 
  Website: sherpaautotransport.com
  
 **About the Project**
+
 Sherpa Auto Transport was founded in 2017 by seasoned entrepreneurs determined to improve the car shipping experience after several unreliable cross-country moves. Their mission is to bring transparency, reliability, and peace of mind to the auto transport industry.
 
 **QA Responsibilities**
@@ -67,23 +67,26 @@ Sherpa Auto Transport was founded in 2017 by seasoned entrepreneurs determined t
 * Bug Reporting on Shortcut
 * SEO Validation
 
-**2. Credkeeper™**
+## 2. The Gem Cloud – B2B Gemstone Trading Platform
 
-Website: https://credkeeper.com
- 
+Website: https://www.thegemcloud.com/
+
 **About the Project**
- Credkeeper™ is a patent-pending software platform designed to amplify a business’s online credibility by strategically managing how clients and prospects perceive the brand. It focuses on showcasing authority and trust, helping users convert more leads into paying clients.
- 
-**QA Responsibilities**
-* Functional Testing
-* Mobile Responsiveness Testing
-* UI/UX Consistency
-* Bug Reporting- Monday.com
-* Test Management-  Google Sheets
-* Bug Tracking- Monday.com
-* Browser Testing- Chrome DevTools, 
 
-**3. ILMZone – EdTech Platform**
+The Gem Cloud is a B2B digital marketplace and inventory management system designed for the gemstone industry. It connects wholesalers, retailers, and manufacturers, offering a centralized platform for showcasing, managing, and trading certified gemstones online with real-time inventory visibility and virtual showroom capabilities.
+
+**QA Responsibilities**
+
+* Conducted end-to-end functional and regression testing - selenium
+* UI/UX testing
+* Verified role-based access and permission functionality for sellers, buyers, and admins
+* Performed cross-browser testing across Chrome, Safari, Firefox, and Edge
+* Executed responsive testing on mobile and tablet devices to ensure optimal experience
+* Reported bugs and tracked issue resolution - Jira
+* Validated media uploads and 360-degree gemstone view functionality
+   
+
+## 3. ILMZone – EdTech Platform
 
  Website: https://int.ilmzone.com/
  
@@ -102,7 +105,62 @@ Website: https://credkeeper.com
 * Performance testing - Jmeter and blazemeter
 * Git
 
-**4. MitraMundo – E-commerce & Consulting Platform**
+## 4. BedrockMD – Insurance Support Platform
+
+Website: (https://bedrockmd.com)
+
+**About the Project**
+
+BedrockMD is a one-stop digital solution designed specifically for insurance agents, offering support with Medicare leads, quoting tools, training modules, and contracting services. The platform simplifies the agent onboarding and growth journey by providing access to leads, compliance training, and quoting — all within a centralized, user-friendly web application.
+
+**QA Responsibilities**
+
+* End-to-end functional testing of lead generation forms, quoting tools, training modules, and agent sign-up flows
+* Responsive design testing across desktop, mobile, and tablet devices
+* Form validation and secure data flow checks
+* UI/UX testing to enhance user experience and identify UX roadblocks
+* Bug reporting and tracking using Monday.com
+* Test case management via Google Sheets
+* Cross-browser testing using Chrome DevTools
+
+## 5. Medicare Supplement vs Medicare Advantage Comparison Guide – Educational Healthcare Page
+
+Website: https://medicare-advantage-vs-medicare-supplement.com
+
+**About the Project** 
+
+This project focused on building a detailed, user-friendly guide to assist Medicare beneficiaries in comparing Medicare Supplement (Medigap) and Medicare Advantage plans. It was designed to simplify complex healthcare information, helping seniors and their families make better-informed coverage decisions by clearly explaining plan structures, benefits, and costs.
+
+**QA Responsibilities**
+
+* Content validation to ensure healthcare information was accurate, updated, and easy to understand
+* UX and flow testing across comparison sections for smooth user navigation
+* Mobile responsiveness testing for comparison tables, bullets, and CTAs
+* Cross-browser testing on Chrome, Safari, Firefox, and Edge
+* Lead form and CTA functionality testing to verify proper user redirection
+* Accessibility and readability checks, including font sizes, button labels, and contrast ratios
+* Bug reporting and regression testing using Monday.com
+* Test validation and troubleshooting using Chrome DevTools
+
+## 6. BedrockFS – Financial Services Marketing & CRM Platform
+
+Website: https://bedrockfs.com/
+
+**About the Project**
+
+BedrockFS is a platform that combines proven marketing support, innovative CRM software, and industry-leading life and annuity products to empower financial professionals. It provides agents and advisors with tools to generate leads, manage client relationships, automate marketing efforts, and optimize business growth strategies.
+
+**QA Responsibilities**
+
+* Functional testing of CRM modules, lead tracking features, marketing automation workflows, and user dashboards
+* Cross-browser and mobile device testing for financial tools, calculators, lead generators, and communication tools
+* Content accuracy checks for marketing materials, product descriptions, and regulatory-compliant resources
+* Bug reporting and defect tracking using Monday.com
+* Regression testing and validation of fixed issues
+* Testing and validation using Chrome DevTools, Firefox, and Safari
+
+
+## 7. MitraMundo – E-commerce & Consulting Platform
 
 Website: https://mitramundo.com/contact-us/
 
@@ -118,9 +176,44 @@ MitraMundo is a leading e-commerce and consulting platform aimed at bridging the
 * Bug Reporting - Jira
 * Stripe Payment Integration Testing
 
+## 5. Postal-Service-Health-Benefits.com – Educational Healthcare Resource
+
+Website: https://postal-service-health-benefits.com/
+
+**About the Project**
+
+Postal-Service-Health-Benefits.com is a trusted, non-governmental resource dedicated to educating U.S. postal workers and retirees about their health benefits and Medicare options. The platform is designed to support informed decision-making through clear, accurate, and accessible healthcare content.
+
+**QA Responsibilities**
+
+* Verified accuracy and clarity of educational content for the postal employee and retiree demographic
+* Conducted cross-browser and mobile testing across Chrome, Safari, Firefox, Edge, tablets, and smartphones
+* Performed accessibility compliance checks including alt text, semantic structure, color contrast, and keyboard navigation
+* Tested form functionality to ensure secure lead capture and accurate data routing
+* Reviewed on-page SEO best practices (meta titles, descriptions, alt tags) for search visibility
+* Logged and tracked bugs using Monday.com and performed regression testing post-fix
+
+## 6. Credkeeper™
+
+Website: https://credkeeper.com
+ 
+**About the Project**
+
+ Credkeeper™ is a patent-pending software platform designed to amplify a business’s online credibility by strategically managing how clients and prospects perceive the brand. It focuses on showcasing authority and trust, helping users convert more leads into paying clients.
+ 
+**QA Responsibilities**
+
+* Functional Testing
+* Mobile Responsiveness Testing
+* UI/UX Consistency
+* Bug Reporting- Monday.com
+* Test Management-  Google Sheets
+* Bug Tracking- Monday.com
+* Browser Testing- Chrome DevTools, 
+
 # Android App Testing
 
-**1. LitMe – Event Creation & Social Interaction App**
+## 1. LitMe – Event Creation & Social Interaction App
 
 Google Play URL : https://play.google.com/store/apps/details?id=com.litmeapp.litapp
 
@@ -138,9 +231,10 @@ LitMe is an innovative mobile app that allows users to create and manage events,
 * Performance testing - Apache JMeter
 * API testing - Postman
 
-**2. Scalamed – Healthcare & Prescription Management App**
+## 2. Scalamed – Healthcare & Prescription Management App
 
 Google Play URL : https://play.google.com/store/apps/details?id=com.scalamed.patientmobileapp&hl=en_IE
+https://www.myhealthapplication.com/app/scalamed
 
 **About the Project**
 
@@ -159,7 +253,7 @@ Scalamed is a healthcare application designed to streamline prescription managem
 
 # IOS App Testing
 
-**1. SameForYou – iOS Merchant & Client Apps**
+## 1. SameForYou – iOS Merchant & Client Apps
 
 PlayStore URL: https://apps.apple.com/us/app/same-for-you/id1643425190
 
@@ -174,7 +268,25 @@ SameForYou is an innovative iOS application designed to provide a seamless exper
 * UI/UX testing
 * Bug reporting and tracking - Jira
 
+## 2. Scalamed – Healthcare & Prescription Management App
 
+Google Play URL : https://play.google.com/store/apps/details?id=com.scalamed.patientmobileapp&hl=en_IE
+https://www.myhealthapplication.com/app/scalamed
+
+**About the Project**
+
+Scalamed is a healthcare application designed to streamline prescription management. It allows patients to manage their prescriptions, send them directly to pharmacies, and track the status of their medications. The app enhances the prescription process by enabling users to easily communicate with their healthcare providers and pharmacies for timely medication fulfillment.
+
+**QA Responsibilities**
+
+* End-to-End functional testing
+* UI/UX testing
+* Bug reporting and tracking - Jira
+* Performance testing - Apache JMeter
+* Version Control- Jira
+* API testing  - Postman
+* API Documentation  - Postman
+* Regression testing 
 
 
 
